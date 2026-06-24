@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Recordatorios de Pagos de Servicios 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-recordatorios-pagos-servicios/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-recordatorios-pagos-servicios/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-recordatorios-pagos-servicios/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Texto profesional para recordar pagos pendientes.
 
 ## 🚀 Probar la aplicación
 
